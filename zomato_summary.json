@@ -1,0 +1,12 @@
+{
+    "average_rating": 3.6331081081081082,
+    "average_cost": 418.2432432432432,
+    "online_order_ratio": 0.3918918918918919,
+    "table_booking_ratio": 0.05405405405405406,
+    "category_counts": {
+        "Dining": 110,
+        "Cafes": 23,
+        "other": 8,
+        "Buffet": 7
+    }
+}
